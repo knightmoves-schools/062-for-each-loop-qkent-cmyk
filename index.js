@@ -5,6 +5,6 @@ function markAsDone(todos) {
     modifiedTodos.push('done - ' + todo);
   });
   
-  return modifiedTodos;
+  return modifiedTodos; 
 }
 
